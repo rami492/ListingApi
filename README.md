@@ -33,8 +33,8 @@ A RESTful backend API for managing user listings, built with Django REST Framewo
 ```bash
 pip install -r requirements.txt
 ```
-3. Configure PostgreSQL variables in .env or use SQLite
-4. Run migrations:
+2. Configure PostgreSQL variables in .env or use SQLite
+3. Run migrations:
 ```bash
 python3 manage.py makemigrations api1
 ```
